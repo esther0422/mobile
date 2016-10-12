@@ -1,0 +1,26 @@
+{
+  "name": "mobile",
+  "version": "1.0.0",
+  "description": "my first mobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esther0422/mobile.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esther0422/mobile/issues"
+  },
+  "homepage": "https://github.com/esther0422/mobile#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-stylus": "^2.5.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
